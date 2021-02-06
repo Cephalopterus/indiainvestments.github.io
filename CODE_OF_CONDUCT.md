@@ -60,7 +60,9 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement on the discord server or subreddit.
+reported to the community leaders responsible for enforcement at
+[discord](https://discord.gg/hqBNg4u) and [reddit modmail](https://www.reddit.com/message/compose?to=/r/IndiaInvestments).
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
