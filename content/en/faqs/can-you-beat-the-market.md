@@ -1,23 +1,25 @@
 ---
 title: Can you beat the market?
 category: faq
+description: |
+  An individual investor needs to invest time and effort, have a capability to think on a higher level than the consensus view, adapt to changes in market dynamics, and have the capacity for patience and conviction to consistently beat the market.
 position: 3
 ---
 
 Here you'll find,
 
 - What does beating the market mean? Is it possible?
-- Whether one can consistently beat the market — and what it takes.
+- Whether one can consistently beat the market - and what it takes
 
 # Beating the market — what it means
 
-The phrase _beating the market_ can mean different things for different people. The intuitive definition is to earn returns on a portfolio level that consistently beats the market index. However, more people allocate their equity investments in funds managed actively than passively - so it makes sense to see how your returns stack up against that of professional investors, or atleast try to understand how an individual investor has a fighting chance against instituitions in the chase for every possible rupee gain.
+The phrase _beating the market_ can mean different things for different people. The intuitive definition is to earn returns on a portfolio level that consistently beats the market index. However, more people allocate their equity investments in funds managed actively than passively - so it makes sense to see how your returns stack up against that of professional investors, or at-least try to understand how an individual investor has a fighting chance against institutions in the chase for every possible rupee gain.
 
 ## Beating the index
 
-It's easy to achieve average market performance, one simply needs to _buy the market_ through a low cost index or exchange trading fund - and there's nothing wrong with aiming to get what is known as market returns; between February 2000 to 2020, over a 20 year period, Nifty Total Return Index had a compounded annualized growth rate of 14.3% per year, comfortably beating inflation.
+It's easy to achieve average market performance, one simply needs to _buy the market_ through a low cost index or exchange trading fund - and there's nothing wrong with aiming to get what is known as market returns; between February 2000 to 2020, over a 20 year period, Nifty Total Return Index [^1] returned a compounded annualized growth rate of 14.3% per year, comfortably beating inflation.
 
-If effecient market hypothesis is to be believed, stock prices reflect consensus view of all publicly available information that can have a material impact on the price action of the stock. However, that doesn't render the exercise of finding mismatches between price and intrinsic value of a stock ineffectual. Instead, it involves finding instances where the consensus view of the market is itself inaccurate, thus creating an opportunity to make money from the difference.
+If **efficient market hypothesis** is to be believed, stock prices reflect consensus view of all publicly available information that can have a material impact on the price action of the stock. However, that doesn't render the exercise of finding mismatches between price and intrinsic value of a stock ineffectual. Instead, it involves finding instances where the consensus view of the market is itself inaccurate, thus creating an opportunity to make money from the difference.
 
 So, if an analytical mind is willing to invest time and effort in pursuit of such mismatches, earning profits higher than the market returns is possible, and can be a great tool to create wealth for goals.
 
@@ -40,7 +42,7 @@ An argument can be made that another upside to the exercise of stock picking is 
 
 # Can you beat the market?
 
-Establishing the possibility of beating the market is kaput enables delusion if one doesn't acknowledge what it takes to do it consistenly — a brutal cocktail of time, effort, discipline, conviction, contrarianism, and an investment philosophy to invest the time, effort, discipline, and conviction in.
+Establishing the possibility of beating the market is kaput if one doesn't acknowledge what it takes to do it consistently — a brutal cocktail of time, effort, discipline, conviction, contrarianism, and an investment philosophy to invest the time, effort, discipline, and conviction in.
 
 ## Sticking to an investment philosophy
 
@@ -48,19 +50,19 @@ An investment philosophy can be thought of as a construct of mental models upon 
 
 > 'If you don't know what you want, you end up with a lot you don't.'
 
-So, mental models help investors validate their strategy by providing a confined framework, and an investment phiolosphy is a set of mental models that the investor follows. Luckily, mental models in stock picking have been figured out to a large extent (such as momentum, growth, low multiples, and value investing), one simply needs to recognise, study, and implement them.
+So, mental models help investors validate their strategy by providing a confined framework, and an investment philosophy is a set of mental models that the investor follows. Luckily, mental models in stock picking have been figured out to a large extent (such as momentum, growth, low multiples, and value investing), one simply needs to recognize, study, and implement them.
 
-## Second level thinking — having an _edge_
+## Second level thinking — having an _'edge'_
 
-For all intents and purposes, every investor (professional and individual) competes in pursuit of profits in any asset working with the same information available in the public forum. The consensus on the impact of this information is what establishes the stock price in the short run, and so if your view aligns with that of the majority, it makes sense that you'll largely make market returns. Every investor can't beat the market as together they are the market. To get extraordinary returns, you need to have an extraordinary perspective. This is what Howard Marks calls _second level thinking_, Ben Graham calls _trace of wisdom_, and Warren Buffett & Charlie Munger calls _having an edge._
+For all intents and purposes, every investor (professional and individual) competes in pursuit of profits in any asset working with the same information available in the public forum. The consensus on the impact of this information is what establishes the stock price in the short run, and so if your view aligns with that of the majority, it makes sense that you'll largely make market returns - every investor can't beat the market as together they are the market. To get extraordinary returns, you need to have an extraordinary perspective. This is what Howard Marks calls _second level thinking_, Ben Graham calls _trace of wisdom_, and Warren Buffett & Charlie Munger calls _having an edge._
 
-This is not to say the consensus view of information is always wrong, in all likeliness millions of other investors may be smarter and more knowledgable than you. The idea is to find instances where the individual investor can use contrarian insight that the market isn't reflecting, and it has to be accurate, or atleast _more correct_ than the consensus view.
+This is not to say the consensus view of information is always wrong, in all likeliness millions of other investors may be smarter and more knowledgeable than you. The idea is to find instances where the individual investor can use contrarian insight that the market isn't reflecting, and it has to be accurate, or at-least _more correct_ than the consensus view.
 
 To quote Howard Marks' _The Most Important Thing,_
 
 > Only if your behavior is unconventional is your performance likely to be unconventional, and only if your judgments are superior is your performance likely to be above average. For your performance to diverge from the norm, your expectations— and thus your portfolio—have to diverge from the norm, and you have to be more right than the consensus. Different and better: that’s a pretty good description of second-level thinking.
 
-Marks also proceeds to provide a framework, a set of questions that you must ask yourself when working with contrarian thinking,
+Marks also proceeds to provide a framework, a set of questions that an investor must ask when working with contrarian thinking,
 
 - What is the range of likely future outcomes?
 - Which outcome do I think will occur?
@@ -71,4 +73,39 @@ Marks also proceeds to provide a framework, a set of questions that you must ask
 - Is the consensus psychology that’s incorporated in the price too bullish or bearish?
 - What will happen to the asset’s price if the consensus turns out to be right, and what if I’m right?
 
-To sum it up, holding consensus view on any material information comes naturally to us — specially if an investor relies on financial news channels or social media to acquire information; but that's not how above average returns can be achieved, by definition consensus views largely yields market return. The ability to accurately spot mismatches between price and intrinsic value of an asset requires _an edge._
+To sum it up, holding consensus view on any material information comes naturally to us — specially if an investor relies on financial news channels or social media to acquire information; but that's not how above average returns can be achieved, by definition consensus views largely yields market return. The ability to accurately spot market inefficiencies requires _an edge._
+
+## Reading it all
+
+Taking the time and effort to read annual reports, brokerage reports, primers, conference call transcripts, and various other filings are all part of what an investors signs up for while performing due diligence for a company. Skim, and you may miss what disproves your investment thesis, which is perhaps ond of the major reasons for higher churn rates in an individual investor's portfolio.
+
+When asked on how to make smart investments, Warren Buffett said,
+
+> “Read 500 pages like this every week. That’s how knowledge builds up, like compound interest.”
+
+To beat the market, you need to bring what's needed to be a succesful investor, and that means sacrificing a lot of time and effort that could have been used elsewhere, like your day job. **At some point, an investor needs to decide whether the cost of time and effort exceeds the benefit of outperformance in his/her stock picking journey.**
+
+## Conviction and patience is everything
+
+Having an accurate non-consensus view will only get you as far as your conviction on the investment thesis goes. Remember, the market can stay irrational for long durations of time. As Sanjay Bakshi notes in his apparance in an episode of the We Study Billionaires podcast, unlike many other professions, an investor rarely receives an immediate feedback on his operations. Sometimes it takes years for the market to catch up to intrinsic value of an asset, and so it is hard to separate luck from genuine success — so hold on to the underlying process rather than focusing on the outcome. A good handle on your conviction helps you to hang in until other investors catch up on the market's inefficiencies. On this subject, Joel Greenblatt annotates on _The Most Important Thing,_
+
+> I always tell my students, “If you do a good job valuing a stock, I guarantee that the market will agree with you.” I just don’t tell them when. It could be weeks or years.
+
+Another thing to note is an investor should never rely on borrowed conviction, primarily because it's never enough to hold on to. If you don't do your own research, and rather rely on someone else's, the conviction tends to be weak, and so emotions act up, and exit plans are broken before the thesis fully appreciates. The other reason is that you have to rely on the goodwill of the researcher, as they may not warn you if something disproves their thesis.
+
+### Investing can't be perfectly routinized
+
+As Howard Marks notes in _The Most Important Thing,_ investing is more art than science — in the sense that past results can't be relied upon with confidence, the cause and effect relationships can't be depended upon. And so, investing can't be routinized. An investor must be able to adapt to changes in the market dynamics to consistently outperform the market.
+
+# Conclusion
+
+To sum it up, an individual investor needs to invest time and effort, have a capability to think on a higher level than the consensus view, adapt to changes in market dynamics, and have the capacity for patience and conviction to consistently beat the market.
+
+[^1]: In India, we don't have any index fund/ETF which gives exposure to the total stock markets. Ideally, we should be comparing returns of such an investible fund (may be some time in future, we may get such a fund) and not Nifty TRI. But Nifty TRI captures around 70% of the total market return, AND is investible, so that example has been given here. There are now Top 100, Midcap 150, Smallcap 250 and Nifty 500 index funds available to be invested.]
+
+# References/Further Reading
+
+- [Howard Marks -- The Most Important Thing (Illuminated Edition)](https://www.amazon.in/Most-Important-Thing-Illuminated-Thoughtful/dp/0231162847)
+- [Joel Greenblatt -- You Can Be a Stock Market Genius](https://www.amazon.in/You-Can-Stock-Market-Genius/dp/0684840073)
+- [Sanjay Bakshi's episode on The Investor's Podcast's We Study Billionaires](https://www.youtube.com/watch?v=INBzOkTZEIw&t=384s)
+- [Joel Greenblatt -- The Little Book That Beats the Market](https://www.amazon.in/Little-Beats-Market-Books-Profits/dp/0471733067)
