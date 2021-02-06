@@ -1,14 +1,14 @@
 ---
 title: Which date(s) is/are best for SIP in a month?
 category: faq
-description: | 
-    There's no such thing. 
-    It's rare for markets to move up / down so much in a single month, that a single SIP installment being on a different date would make a sizeable difference in your long term corpus.
-    If you start investing today via SIP, and analyze 10 years later, you'd find that, say for example, 23rd of the month was the best day to invest for your funds. That's something you can know only if you've NAV history of next 10 years, which no one does.
-position: 4
+description: |
+  There's no such thing. 
+  It's rare for markets to move up / down so much in a single month, that a single SIP installment being on a different date would make a sizeable difference in your long term corpus.
+  If you start investing today via SIP, and analyze 10 years later, you'd find that, say for example, 23rd of the month was the best day to invest for your funds. That's something you can know only if you've NAV history of next 10 years, which no one does.
+position: 2
 ---
 
-There's no such thing. 
+There's no such thing.
 
 It's rare for markets to move up / down so much in a single month, that a single SIP installment being on a different date would make a sizeable difference in your long term corpus.
 
@@ -30,7 +30,7 @@ For instance, some people believe that the last Thursday of the month coinciding
 
 What does a sound analysis here look like?
 
-You might fund articles on the interweb that draws some conclusions. 
+You might find articles on the interweb that draws some conclusions.
 
 Take the 2010-2020 period. It's a 10 year period, with 120 months. That's 120 transactions. Assuming each month to be of 28 days (to account for February); this would require comparing across 28 timeseries data with each having 120 entries; for every fund.
 
